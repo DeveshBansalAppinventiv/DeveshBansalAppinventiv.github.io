@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.apparel.app6thstreet",
+    "package_name": "com.quivio.customer",
     "sha256_cert_fingerprints":
-    ["1F:79:F4:98:52:C7:2C:F4:19:89:53:09:38:10:FF:B6:35:41:9E:B6:BD:0A:E8:E8:06:BA:D1:77:A1:D1:4C:92","74:4C:28:A7:C5:59:7F:F7:9B:DD:FE:0C:CB:7F:33:FB:49:6F:37:B9:A7:C4:90:D6:E4:DA:18:11:3E:B1:CD:70"] 
+    ["0E:51:23:62:75:43:0D:D4:04:A8:76:EB:CF:8C:85:59:C0:FC:BE:8F:4B:EA:58:DF:79:51:7A:B4:CE:7C:6D:C8"] 
   }
 }]
