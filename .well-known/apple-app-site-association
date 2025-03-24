@@ -4,9 +4,8 @@
     "details": [
       {
         "appID": "UZX73F2PRT.com.quivio.customer",
-        "paths": [
-          "*"
-        ]
+         "paths": [ "/reset-password/*" ]
+
       }
     ]
   }
