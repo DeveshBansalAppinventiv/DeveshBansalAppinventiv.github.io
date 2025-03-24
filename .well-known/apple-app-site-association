@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UZX73F2PRT.com.quivio.customer",
+        "paths": [
+          "NOT /checkout/payment/otp",
+          "NOT /checkout/confirm",
+          "NOT /shop/smartbuy",
+          "*"
+        ]
+      }
+    ]
+  }
+}
